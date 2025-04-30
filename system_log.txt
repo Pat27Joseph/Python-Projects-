@@ -1,0 +1,54 @@
+Public IP Address: 207.255.133.202
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: PATPC
+Private IP Address: 192.168.56.1
+Public IP Address: 207.255.133.202
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: PATPC
+Private IP Address: 192.168.56.1
+Public IP Address: 207.255.133.202
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: PATPC
+Private IP Address: 192.168.56.1
+Public IP Address: 207.255.133.202
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: PATPC
+Private IP Address: 192.168.56.1
+Public IP Address: 207.255.133.202
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: PATPC
+Private IP Address: 192.168.56.1
+Public IP Address: 207.255.133.202
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: PATPC
+Private IP Address: 192.168.56.1
+Public IP Address: 207.255.133.202
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: PATPC
+Private IP Address: 192.168.56.1
+Public IP Address: 207.255.133.202
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: PATPC
+Private IP Address: 192.168.56.1
+Public IP Address: 207.255.133.202
+Processor: Intel64 Family 6 Model 183 Stepping 1, GenuineIntel
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: PATPC
+Private IP Address: 192.168.56.1
