@@ -8,7 +8,7 @@ A collection of Python scripts and tools built for automation, security research
 
 | Project | Description |
 |---|---|
-| Coming soon | Add your project names and one-liners here |
+| Coming soon | |
 
 > **Note:** Each subdirectory contains its own documentation. Browse the folders above to explore individual projects.
 
